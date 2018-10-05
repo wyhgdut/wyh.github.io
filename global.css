@@ -69,7 +69,7 @@ A{
    z-index: 9999;
     position: fixed;
     width: 1200px;
-    background: url(../images/menu_bg.gif) no-repeat;
+    background: url(menu_bg.gif) no-repeat;
     height: 79px;
     margin-left: -600px;
     top: 0px;
@@ -108,12 +108,12 @@ A{
     text-decoration: none;
 }
 #nav UL LI A:hover{
-   background: url(../images/menu_hover.gif) #8e273c no-repeat left top;
+   background: url(menu_hover.gif) #8e273c no-repeat left top;
     color: #fff;
     text-decoration: none;
 }
 #nav UL LI.selected A{
-   background: url(../images/menu_hover.gif) #8e273c no-repeat left top;
+   background: url(menu_hover.gif) #8e273c no-repeat left top;
     color: #fff;
     text-decoration: none;
 }
@@ -197,13 +197,13 @@ A{
    text-indent: -200px;
     width: 55px;
     display: block;
-    background: url(../images/top_ico.gif) no-repeat;
+    background: url(top_ico.gif) no-repeat;
     height: 55px;
     overflow: hidden;
     text-decoration: none;
 }
 .top_rim A:hover{
-   background: url(../images/top_ico.gif) no-repeat 0px bottom;
+   background: url(top_ico.gif) no-repeat 0px bottom;
     text-decoration: none;
 }
 #home{
@@ -325,13 +325,13 @@ A{
     font-size: 30px;
 }
 #home{
-   background: url(../images/home_bg.jpg) fixed no-repeat center bottom;
+   background: url(home_bg.jpg) fixed no-repeat center bottom;
 }
 #home .sprite{
-   background: url(../images/home_sprite_main.png) fixed no-repeat center bottom;
+   background: url(home_sprite_main.png) fixed no-repeat center bottom;
 }
 #home .screen{
-   background: url(../images/home_frei.png) no-repeat center 417px;
+   background: url(home_frei.png) no-repeat center 417px;
 }
 #home .sprite1{
    z-index: 201;
@@ -340,24 +340,24 @@ A{
     padding-left: 0px;
     width: 100%;
     padding-right: 0px;
-    background: url(../images/home_frei01.png) fixed no-repeat center bottom;
+    background: url(home_frei01.png) fixed no-repeat center bottom;
     height: 1100px;
     top: 0px;
     padding-top: 0px;
 }
 #about{
-   background: url(../images/about_bg.jpg) fixed no-repeat center 0px;
+   background: url(about_bg.jpg) fixed no-repeat center 0px;
 }
 #about .sprite{
-   background: url(../images/about_sprite_frei.png) fixed no-repeat center 211px;
+   background: url(about_sprite_frei.png) fixed no-repeat center 211px;
 }
 #about .screen{
-   background: url(../images/about_frei.png) fixed no-repeat center bottom;
+   background: url(about_frei.png) fixed no-repeat center bottom;
 }
 #about .about_rim{
    padding-left: 350px;
     width: 439px;
-    background: url(../images/about_img.png) no-repeat 350px 0px;
+    background: url(about_img.png) no-repeat 350px 0px;
     height: 439px;
 }
 #about .about_rim .about_txt{
@@ -389,42 +389,42 @@ A.close_btu:hover{
 #about_cont{
    position: relative;
     width: 100%;
-    background: url(../images/about_bg_01.jpg) fixed no-repeat center 0px;
+    background: url(about_bg_01.jpg) fixed no-repeat center 0px;
     height: 0px;
     overflow: hidden;
 }
 #about_cont .sprite{
-   background: url(../images/about_cont_01.png) fixed no-repeat center bottom;
+   background: url(about_cont_01.png) fixed no-repeat center bottom;
 }
 #about_cont .screen{
-   background: url(../images/about_cont_02.png) fixed no-repeat center 500px;
+   background: url(about_cont_02.png) fixed no-repeat center 500px;
 }
 #about_cont .screen1{
    width: 100%;
-    background: url(../images/about_cont_03.png) fixed no-repeat center bottom;
+    background: url(about_cont_03.png) fixed no-repeat center bottom;
     height: 1100px;
 }
 #famous{
-   background: url(../images/famous_bg.jpg) fixed no-repeat center 0px;
+   background: url(famous_bg.jpg) fixed no-repeat center 0px;
 }
 #famous .sprite{
-   background: url(../images/famous_sprite_frei.png) fixed no-repeat center 411px;
+   background: url(famous_sprite_frei.png) fixed no-repeat center 411px;
 }
 #famous .screen{
-   background: url(../images/famous_sprite_frei.png) no-repeat center bottom;
+   background: url(famous_sprite_frei.png) no-repeat center bottom;
 }
 #famous .famous_rim{
    width: 455px;
     height: 450px;
 }
 #news{
-   background: url(../images/news_bg.jpg) fixed no-repeat center bottom;
+   background: url(news_bg.jpg) fixed no-repeat center bottom;
 }
 #news .sprite{
-   background: url(../images/lab_sprite_frei.png) fixed no-repeat center 211px;
+   background: url(lab_sprite_frei.png) fixed no-repeat center 211px;
 }
 #news .screen{
-   background: url(../images/lab_frei.png) fixed no-repeat center 15px;
+   background: url(lab_frei.png) fixed no-repeat center 15px;
 }
 #box_news{
    z-index: 1000;
@@ -469,13 +469,13 @@ A.close_btu:hover{
     text-decoration: none;
 }
 #products{
-   background: url(../images/projekt_bg.jpg) fixed no-repeat center 0px;
+   background: url(projekt_bg.jpg) fixed no-repeat center 0px;
 }
 #products .sprite{
-   background: url(../images/pro_sprite_frei.png) fixed no-repeat center 435px;
+   background: url(pro_sprite_frei.png) fixed no-repeat center 435px;
 }
 #products .screen{
-   background: url(../images/pro_frei.png) fixed no-repeat center 28px;
+   background: url(pro_frei.png) fixed no-repeat center 28px;
 }
 #products .pro_list{
    z-index: 202;
@@ -517,22 +517,22 @@ A.close_btu:hover{
     border-right: medium none;
 }
 #sector{
-   background: url(../images/sector_bg.jpg) fixed no-repeat center 0px;
+   background: url(sector_bg.jpg) fixed no-repeat center 0px;
 }
 #sector .sprite{
-   background: url(../images/sector_sprite_frei.png) fixed no-repeat center 435px;
+   background: url(sector_sprite_frei.png) fixed no-repeat center 435px;
 }
 #sector .screen{
-   background: url(../images/sector_frei.png) fixed no-repeat center 300px;
+   background: url(sector_frei.png) fixed no-repeat center 300px;
 }
 #contact{
-   background: url(../images/technik_bg.jpg) no-repeat center top;
+   background: url(technik_bg.jpg) no-repeat center top;
 }
 #contact .sprite{
-   background: url(../images/technik_sprite_frei.png) fixed no-repeat center 172px;
+   background: url(technik_sprite_frei.png) fixed no-repeat center 172px;
 }
 #contact .screen{
-   background: url(../images/technik_frei.png) no-repeat center 200px;
+   background: url(technik_frei.png) no-repeat center 200px;
 }
 #contact .contents{
    height: auto;
